@@ -10,10 +10,4 @@
 
 ---
 
-# My NeetCode Journey
 
-## NeetCode Progress
-
-![LeetCode Stats](https://leetcard.jacoblin.cool/CyberStarship794?theme=dark&font=baloo)
-
-![LeetCode Heatmap](https://leetcard.jacoblin.cool/CyberStarship794?ext=heatmap)
